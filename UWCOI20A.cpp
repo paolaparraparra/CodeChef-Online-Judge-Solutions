@@ -23,7 +23,6 @@ int main()
             }
         }
         cout<<mayor<<endl;
-
     }
     return 0;
 }
